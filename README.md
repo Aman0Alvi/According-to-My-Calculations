@@ -1,4 +1,6 @@
 # According to My Calculations (Java)
+<img width="681" height="106" alt="image" src="https://github.com/user-attachments/assets/995070ed-176c-4dce-9b7d-b95337fbfc0b" />
+<img width="136" height="111" alt="image" src="https://github.com/user-attachments/assets/f3a95d64-8388-4ead-8609-a07f8030bce4" />
 
 You can find the instructions for this lab at [More Than Equations][more-than-equations]. Create a new repository on GitHub to house your code. Be sure to make the repository public so that I can view and grade it.
 
